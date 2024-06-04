@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "ra11z45zvQc6ogt+CoEVRaVM6ldrOe1Y4Sq+p5d0kKI=",
+  "Hash": "ziEf9YCwnB2+whti8nT2q/tLaFHTHuTatiEYLqW3FTo=",
   "Source": "Backend",
   "BasePath": "_content/Backend",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\cutac\\Desktop\\FrontBack\\frontback.client\\FrontEnd.esproj",
+      "Identity": "/Users/fivvif/Downloads/oopProject/frontback.client/FrontEnd.esproj",
       "Version": 2,
       "Source": "FrontEnd",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

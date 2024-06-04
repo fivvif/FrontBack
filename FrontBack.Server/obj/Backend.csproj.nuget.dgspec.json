@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cutac\\Desktop\\FrontBack\\FrontBack.Server\\Backend.csproj": {}
+    "/Users/fivvif/Downloads/oopProject/FrontBack.Server/Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cutac\\Desktop\\FrontBack\\FrontBack.Server\\Backend.csproj": {
+    "/Users/fivvif/Downloads/oopProject/FrontBack.Server/Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cutac\\Desktop\\FrontBack\\FrontBack.Server\\Backend.csproj",
+        "projectUniqueName": "/Users/fivvif/Downloads/oopProject/FrontBack.Server/Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "C:\\Users\\cutac\\Desktop\\FrontBack\\FrontBack.Server\\Backend.csproj",
-        "packagesPath": "C:\\Users\\cutac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cutac\\Desktop\\FrontBack\\FrontBack.Server\\obj\\",
+        "projectPath": "/Users/fivvif/Downloads/oopProject/FrontBack.Server/Backend.csproj",
+        "packagesPath": "/Users/fivvif/.nuget/packages/",
+        "outputPath": "/Users/fivvif/Downloads/oopProject/FrontBack.Server/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cutac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/fivvif/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -95,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/fivvif/.dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
