@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using FrontBack.Server.Data;
 using FrontBack.Server.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Backend.Controllers
 {
@@ -105,6 +106,7 @@ namespace Backend.Controllers
         }
 
         // GET: api/Authors
+        [Authorize]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Author>>> GetAuthors()
         {
